@@ -1,2 +1,2 @@
 # seed
-kick-off
+creating this repo just for getting started with github...
